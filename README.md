@@ -72,7 +72,7 @@ python -m unittest
 - **Descontos**: cupom, clube de vantagens, taxa de entrega.
 - **CSV**: importar/exportar pesquisas de preço.
 - **Múltiplos produtos**: somar o carrinho por supermercado.
-- Interface gráfica simples com **Tkinter**.
+- Interface gráfica simples com **Tkinter** ou **Streamlit**.
 
 ---
 
